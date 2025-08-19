@@ -1,0 +1,12 @@
+{
+  "name": "@fp/react",
+  "version": "0.1.0",
+  "description": "Fast.picture integration for react",
+  "license": "LGPL-3.0-or-later",
+  "author": "fast.pictures",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
